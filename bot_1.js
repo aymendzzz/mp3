@@ -228,4 +228,4 @@ ${prefix}queue ⇏ لمعرفة قآئمة التشغيل
  
  
  
-client.login('NTAzNTI3NjY4NTE2NjUxMDE5.Dtio5g.J3K_WftoP6MaNh0UATxoxwd3s9E');
+client.login(process.env.TOKEN);
